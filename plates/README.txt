@@ -9,3 +9,10 @@ feel free to use
 for more of my work
 github.com/alphadestroyer001
  
+
+
+Credits goto Wikd for his original resource with the plates
+i made it fivem ready with a script for each number plate replace
+
+https://www.lcpdfr.com/downloads/gta5mods/vehiclestextures/40659-nsw-number-plate-pack/
+https://www.lcpdfr.com/profile/396824-wikd/
